@@ -9,5 +9,3 @@
 * Merge sort 
 
 
-
-![Uploading 2022-02-02 13-53-44.gif…]()
