@@ -8,4 +8,5 @@
 * Insertion sort 
 * Merge sort 
 
+![Gif](/sortingGif.gif)
 
