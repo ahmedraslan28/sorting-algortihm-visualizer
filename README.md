@@ -7,6 +7,7 @@
 * Selection sort 
 * Insertion sort 
 * Merge sort 
-
+* 
+###### preview video is loading
 ![](/sortingGif.gif)
 
