@@ -8,6 +8,6 @@
 * Insertion sort 
 * Merge sort 
 * 
-###### if you can't shwo the preview video please wait it's loading 
+###### if you can't show the preview video please wait it's loading 
 ![](/sortingGif.gif)
 
